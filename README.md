@@ -3,7 +3,7 @@ Modern Chair is a visually appealing product showcase website designed to highli
 
 Tech Stack:
 
-HTML5
-CSS3
-Responsive Design
-CSS Animations & Transitions
+-HTML5
+-CSS3
+-Responsive Design
+-CSS Animations & Transitions
